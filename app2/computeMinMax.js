@@ -2,7 +2,7 @@ const findMinMax=(numberArray)=>{
 	let minMax=[];
 
 	let sort =(numberArray)=>{
-             //let max=numberArray[0];
+             
              for(counter = 0 ; counter < numberArray.length-1; counter++ )
              {
              	for(counter2=counter+1; counter2<numberArray.length;counter2++)
