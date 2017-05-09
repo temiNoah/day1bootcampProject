@@ -1,4 +1,5 @@
-const dataTypes=(data)=>{
+const 
+dataTypes=(data)=>{
 	if(data === null)
 	{
         return 'no value';
