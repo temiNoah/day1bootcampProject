@@ -1,9 +1,9 @@
 const 
 dataTypes=(data)=>{
 	if(data === null)
-	{
+	
         return 'no value';
-	}
+	
 	else if(data === undefined)
 	{
         return 'no value';
